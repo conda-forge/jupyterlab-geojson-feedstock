@@ -1,5 +1,5 @@
 {% set name = "jupyterlab-geojson" %}
-{% set version = "3.3.0" %}
+{% set version = "3.3.1" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/jupyterlab-geojson-{{ version }}.tar.gz
-  sha256: 87640df0174f12dea44f1224843704b63fee7dcd1d35565e1dfedd1f7a81b9ee
+  sha256: 45da6d1df8fedf8edf3fc6bdf58106d99d7b4a982df978342512b37c75393825
 
 build:
   number: 0
