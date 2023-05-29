@@ -1,11 +1,11 @@
-About jupyterlab-geojson
-========================
+About jupyterlab-geojson-feedstock
+==================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/jupyterlab-geojson-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/jupyterlab/jupyter-renderers
 
 Package license: BSD-3-Clause
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/jupyterlab-geojson-feedstock/blob/main/LICENSE.txt)
 
 Summary: GeoJSON renderer for JupyterLab
 
